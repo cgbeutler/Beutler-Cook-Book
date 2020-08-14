@@ -30,7 +30,7 @@ Let sit for `30 min`. (This autolyse process hydrates the flour.)
 
 ### 👐 Kneed
 
-Kneed dough until it gets smooth. If it is splitting/breaking, it may need more water. (should take `10-ish minutes` to kneed smooth and develop gluten chains.)
+If using sourdough, add the sourdough starter (all `50g`). Kneed dough until it gets smooth. If it is splitting/breaking, it may need more water. (should take `10-ish minutes` to kneed smooth and develop gluten chains.)
 
 Set it aside at room temp to rise for `1.5 hours (instant yeast)` or `12 hours (sourdough)`
 
