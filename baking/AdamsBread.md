@@ -3,24 +3,24 @@ Here is my go-to bread and pizza dough recipe
 ## Ingredients
 
 - one of:
-  - bread flour `600g`
-  - all-purpose flour `600g` and vital wheat gluten `20g`
-- Oil `10g`
-- Sugar `30g`
-- Salt `16g`
-- Water `430g`
+  - 🥣 bread flour `600g`
+  - 🥣 all-purpose flour `600g` and vital wheat gluten `20g`
+- 🥣 Oil `10g`
+- 🥣 sugar `30g`
+- 🥣 Salt `16g`
+- 🥣 Water `430g`
 - one of:
-  - Sourdough starter `50g`
-  - Instant yeast `7g (1 packet)`
+  - 👐 Sourdough starter `50g`
+  - 🥣 Instant yeast `7g (1 packet)`
 - for more flavor
-  - ascorbic acid `2g`
-  - nutritional yeast `4g`
+  - 🥣 ascorbic acid `2g`
+  - 🥣 nutritional yeast `4g`
 - for soft sandwich style
-  - large egg for egg wash `1` (or egg replacement.)
+  - 🔥 large egg for egg wash `1` (or egg replacement.)
 
 ## Instructions
 
-### Autolyse
+### 🥣 Autolyse
 
 If using instant yeast, mix instant yeast (all `7g`) in warm water (all `430g`).
 
@@ -28,13 +28,13 @@ Mix all ingredients (except sourdough starter and egg wash) in a large bowl till
 
 Let sit for `30 min`. (This autolyse process hydrates the flour.)
 
-### Kneed
+### 👐 Kneed
 
 Kneed dough until it gets smooth. If it is splitting/breaking, it may need more water. (should take `10-ish minutes` to kneed smooth and develop gluten chains.)
 
 Set it aside at room temp to rise for `1.5 hours (instant yeast)` or `12 hours (sourdough)`
 
-### Forming loaves
+### 🍞 Forming loaves
 
 Form into 1 giant loaf  or  split into 2 for smaller loaves  or  form a bunch of little buns.
 
@@ -46,7 +46,7 @@ Let rise:
   Sourdough - Let rise for `2 hours` then move to fridge to ferment for `8 to 48 hours`.
   Instant yeast - Let rise for `30 min`.
 
-### Baking
+### 🔥 Baking
 
 - if using steam pan:
     
