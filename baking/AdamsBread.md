@@ -2,22 +2,25 @@ Here is my go-to bread and pizza dough recipe
 
 ## Ingredients
 
-- one of:
-  - 🥣 bread flour `600g`
-  - 🥣 all-purpose flour `600g` and vital wheat gluten `20g`
 - 🥣 Oil `10g`
 - 🥣 sugar `30g`
 - 🥣 Salt `16g`
 - 🥣 Water `430g`
 - one of:
+  - 🥣 bread flour `600g`
+  - 🥣 all-purpose flour `600g` and vital wheat gluten `20g`
+- one of:
   - 👐 Sourdough starter `50g`
   - 🥣 Instant yeast `7g (1 packet)`
-- for more flavor
+- for more flavor:
   - 🥣 ascorbic acid `2g`
   - 🥣 nutritional yeast `4g`
-  - 🥣 pepper flakes (pizza dough) `2g`
-- for soft sandwich style
+
+- for soft sandwich style:
   - 🔥 large egg for egg wash `1` (or egg replacement.)
+- for pizza dough:
+  - 🥣 pepper flakes (for flavor) `2g`
+  - 🔥 spelt flour (to make it easier to move around)
 
 ## Instructions
 
@@ -33,21 +36,34 @@ Let sit for `30 min`. (This autolyse process hydrates the flour.)
 
 If using sourdough, add the sourdough starter (all `50g`). Kneed dough until it gets smooth. If it is splitting/breaking, it may need more water. (should take `10-ish minutes` to kneed smooth and develop gluten chains.)
 
-Set it aside at room temp to rise for `1.5 hours (instant yeast)` or `12 hours (sourdough)`
+In oiled bowl set bread aside at room temp to rise for `1.5 hours (instant yeast)` or `12 hours (sourdough)`. (Till it's about doubled in size.)
 
 ### 🍞 Forming loaves
 
-Form into 1 giant loaf  or  split into 2 for smaller loaves  or  form a bunch of little buns.
+Try not to kneed much at this stage, as you don't want to remove too much air.
 
-For classic sandwich style, form into rectangle-ish loaves and place in bread pan. (Will double in size during rise and a bit during baking, so it should fill less-than half the pan.)
+For pizza dough, you can just cut them in two and second-rise as balls.
 
-Try not to kneed much, as you don't want to remove too much air.
+For bread, form into 1+ loaves or form a bunch of little buns. Coat with a tiny bit of flour as they near their shape.
+
+For classic sandwich-style, form into rectangle-ish loaves and place in bread pan. (Will double in size during rise and a bit during baking, so it should fill less-than half the pan.)
 
 Let rise:
   Sourdough - Let rise for `2 hours` then move to fridge to ferment for `8 to 48 hours`.
   Instant yeast - Let rise for `30 min`.
 
 ### 🔥 Baking
+
+- for pizza:
+    
+    Spread dough balls into sheets. Use Spelt flour underneath it to make it easier to move.
+    
+    Bake at `550°F` or as high as your oven goes on a pizza Steal.
+    Preheat an extra `15 to 30 min` to make sure oven is super hot.
+    
+    Just before putting the pizza in the oven turn the oven to Broil!
+    
+    Cook for `5 to 8 min`
 
 - if using steam pan:
     
