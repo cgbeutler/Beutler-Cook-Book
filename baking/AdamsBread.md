@@ -15,6 +15,7 @@ Here is my go-to bread and pizza dough recipe
 - for more flavor
   - 🥣 ascorbic acid `2g`
   - 🥣 nutritional yeast `4g`
+  - 🥣 pepper flakes (pizza dough) `2g`
 - for soft sandwich style
   - 🔥 large egg for egg wash `1` (or egg replacement.)
 
