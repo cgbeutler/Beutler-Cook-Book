@@ -3,16 +3,27 @@ Here is my go-to bread and pizza dough recipe
 ## Ingredients
 
 Bread flour 600g  or  All-purpose flour 600g and Vital wheat gluten 20g
+
 Oil 10g
+
 Sugar 30g
+
 Salt 16g
+
 Water 430g
+
 Sourdough starter 50g  or  Instant yeast 7g (1 packet)
+
 -More flavor-
+
 Ascorbic Acid 2g
+
 Nutritional yeast 4g
+
 -If soft sandwich style-
+
 1 large egg for egg wash  (or replacement.)
+
 
 ## Instructions
 
