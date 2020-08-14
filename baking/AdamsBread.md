@@ -24,7 +24,7 @@ Here is my go-to bread and pizza dough recipe
 
 If using instant yeast, mix instant yeast (all `7g`) in warm water (all `430g`).
 
-Mix all ingredients (except sourdough starter and egg wash) in a large bowl till clumps of dry are gone.
+Mix all 🥣 ingredients in a large bowl till clumps of dry are gone.
 
 Let sit for `30 min`. (This autolyse process hydrates the flour.)
 
